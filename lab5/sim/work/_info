@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog_Labs/lab4/sim
+vdual_ram
+!s110 1595797353
+!i10b 1
+!s100 oobNdP`^oV:F`>]SmHb<B2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1JhXf5aEc<4lUa;]k4MX01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog_Labs/lab5/sim
+w1595797351
+8D:\Verilog_Labs\lab5\rtl\dual_ram.v
+FD:\Verilog_Labs\lab5\rtl\dual_ram.v
+!i122 10
+L0 1 32
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1595797352.000000
+!s107 D:\Verilog_Labs\lab5\rtl\dual_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog_Labs\lab5\rtl\dual_ram.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdual_ram_tb
+!s110 1595627219
+!i10b 1
+!s100 iPEQlziL:B]GWJjVIjoDC1
+R0
+I[O?j4N>m2JXznFS::=V_J1
+R1
+R2
+w1595627207
+8D:/Verilog_Labs/lab5/tb/dual_ram_tb.v
+FD:/Verilog_Labs/lab5/tb/dual_ram_tb.v
+!i122 9
+L0 1 67
+R3
+r1
+!s85 0
+31
+!s108 1595627219.000000
+!s107 D:/Verilog_Labs/lab5/tb/dual_ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab5/tb/dual_ram_tb.v|
+!i113 1
+R4
+R5
+vram
+!s110 1595874021
+!i10b 1
+!s100 _O6`mk>QUAk_oXLW=`2[l0
+R0
+I:LS^J<=14@KK@bD^eF3CW1
+R1
+R2
+w1595874017
+8D:/Verilog_Labs/lab5/rtl/ram.v
+FD:/Verilog_Labs/lab5/rtl/ram.v
+!i122 11
+L0 29 21
+R3
+r1
+!s85 0
+31
+!s108 1595874021.000000
+!s107 D:/Verilog_Labs/lab5/rtl/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab5/rtl/ram.v|
+!i113 1
+R4
+R5
+vram_tb
+!s110 1595606452
+!i10b 1
+!s100 EHHZERED2GlO5KQ`lRWkL2
+R0
+Ig8e6Sf>bBJU388=CFcElN1
+R1
+R2
+w1595606434
+8D:/Verilog_Labs/lab5/tb/ram_tb.v
+FD:/Verilog_Labs/lab5/tb/ram_tb.v
+!i122 5
+L0 29 76
+R3
+r1
+!s85 0
+31
+!s108 1595606452.000000
+!s107 D:/Verilog_Labs/lab5/tb/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab5/tb/ram_tb.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog_Labs/lab5/sim
+vseq_det
+!s110 1595723405
+!i10b 1
+!s100 9EbRRhkVN3lNiCa=^IbeZ3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I10<V3dE4F<^M0;FL5P83E2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog_Labs/lab6/sim
+w1595721857
+8D:/Verilog_Labs/lab6/rtl/seq_det.v
+FD:/Verilog_Labs/lab6/rtl/seq_det.v
+!i122 1
+L0 29 57
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1595723405.000000
+!s107 D:/Verilog_Labs/lab6/rtl/seq_det.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab6/rtl/seq_det.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vseq_det_tb
+!s110 1595724453
+!i10b 1
+!s100 ZIACaN0=?YUcjX@9VZ=fK3
+R0
+IL1D5;4S<h2l4Y[X=CIi]11
+R1
+R2
+w1595724448
+8D:/Verilog_Labs/lab6/tb/seq_det_tb.v
+FD:/Verilog_Labs/lab6/tb/seq_det_tb.v
+!i122 6
+L0 29 94
+R3
+r1
+!s85 0
+31
+!s108 1595724453.000000
+!s107 D:/Verilog_Labs/lab6/tb/seq_det_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab6/tb/seq_det_tb.v|
+!i113 1
+R4
+R5

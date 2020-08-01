@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog_Labs/lab1/sim
+valu
+!s110 1594980225
+!i10b 1
+!s100 ^[YPb8<9hogPHb6FY@D0F0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I61le7^?]]^9S1igm^3:c93
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog_Labs/lab2/sim
+w1594979916
+8D:/Verilog_Labs/lab2/rtl/alu.v
+FD:/Verilog_Labs/lab2/rtl/alu.v
+!i122 9
+L0 29 63
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1594980225.000000
+!s107 D:/Verilog_Labs/lab2/rtl/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab2/rtl/alu.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+valu_tb
+!s110 1594987402
+!i10b 1
+!s100 LdDVZfHIXSUHkJZQz_ZiX1
+R0
+Ia@75MF4KQWi4hncD6QYCb3
+R1
+R2
+w1594987398
+8D:/Verilog_Labs/lab2/tb/alu_tb.v
+FD:/Verilog_Labs/lab2/tb/alu_tb.v
+!i122 15
+L0 28 124
+R3
+r1
+!s85 0
+31
+!s108 1594987402.000000
+!s107 D:/Verilog_Labs/lab2/tb/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab2/tb/alu_tb.v|
+!i113 1
+R4
+R5

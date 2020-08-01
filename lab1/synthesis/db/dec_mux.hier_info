@@ -1,0 +1,94 @@
+|dec_mux
+in[0] => in[0].IN4
+in[1] => in[1].IN4
+d[0] => tri_l:tl1.b_in
+d[1] => tri_l:tl2.b_in
+d[2] => tri_l:tl3.b_in
+d[3] => tri_l:tl4.b_in
+z << z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|decoder:D1
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+y_out[0] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[1] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[2] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[3] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|decoder:D2
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+y_out[0] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[1] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[2] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[3] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|decoder:D3
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+y_out[0] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[1] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[2] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[3] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|decoder:D4
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[0] => y_out.IN0
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+a_in[1] => y_out.IN1
+y_out[0] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[1] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[2] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+y_out[3] <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|tri_l:tl1
+b_in => y_out.DATAIN
+en => y_out.OE
+y_out <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|tri_l:tl2
+b_in => y_out.DATAIN
+en => y_out.OE
+y_out <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|tri_l:tl3
+b_in => y_out.DATAIN
+en => y_out.OE
+y_out <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dec_mux|tri_l:tl4
+b_in => y_out.DATAIN
+en => y_out.OE
+y_out <= y_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

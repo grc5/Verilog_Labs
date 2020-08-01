@@ -1,0 +1,450 @@
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 3 errors.
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v failed with 2 errors.
+clear
+# invalid command name "clear"
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v failed with 2 errors.
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 06:16:39 on Jul 19,2020
+# Loading work.tri_logic
+# ** Warning: (vsim-3035) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3036) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 75. Assuming recursive instantiation.
+#    Time: 0 ps  Iteration: 0  Instance: /tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1 File: D:/Verilog_Labs/lab1/sim/tri_logic.v
+# Error loading design
+# End time: 06:16:41 on Jul 19,2020, Elapsed time: 0:00:02
+# Errors: 1, Warnings: 20
+# Compile of tri_logic.v was successful.
+# Compile of tri_logic.v was successful.
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 11:05:20 on Jul 19,2020
+# Loading work.tri_logic
+# ** Warning: (vsim-3035) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3036) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 75. Assuming recursive instantiation.
+#    Time: 0 ps  Iteration: 0  Instance: /tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1 File: D:/Verilog_Labs/lab1/sim/tri_logic.v
+# Error loading design
+# End time: 11:05:21 on Jul 19,2020, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 11:05:59 on Jul 19,2020
+# Loading work.tri_logic
+# ** Warning: (vsim-3035) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3036) Instantiation depth of '/tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1' is 75. Assuming recursive instantiation.
+#    Time: 0 ps  Iteration: 0  Instance: /tri_logic/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1/tl1 File: D:/Verilog_Labs/lab1/sim/tri_logic.v
+# Error loading design
+# End time: 11:06:01 on Jul 19,2020, Elapsed time: 0:00:02
+# Errors: 1, Warnings: 3
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v was successful.
+# Compile of tri_logic.v failed with 1 errors.
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_l
+# vsim -gui work.tri_l 
+# Start time: 11:14:51 on Jul 19,2020
+# Loading work.tri_l
+add wave -position insertpoint  \
+sim:/tri_l/a_in \
+sim:/tri_l/en \
+sim:/tri_l/y_out
+force en 1 20
+force a_in 0 0, 1 10, 0 20, 1 30
+run
+quit -sim
+# End time: 11:17:05 on Jul 19,2020, Elapsed time: 0:02:14
+# Errors: 0, Warnings: 6
+# Compile of tri_logic.v was successful.
+# Compile of tri_logic.v was successful.
+# Compile of dec_mux.v failed with 5 errors.
+# Compile of dec_mux.v failed with 5 errors.
+# Compile of dec_mux.v failed with 5 errors.
+# Compile of decoder_tb.v failed with 9 errors.
+# Compile of decoder_tb.v failed with 9 errors.
+# Compile of decoder_tb.v failed with 7 errors.
+# Compile of decoder_tb.v failed with 7 errors.
+# Compile of decoder_tb.v failed with 7 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 6 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 1 errors.
+# Compile of decoder_tb.v failed with 6 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of dec_mux.v failed with 5 errors.
+# Compile of tri_logic.v was successful with warnings.
+# Compile of dec_mux.v failed with 5 errors.
+# Compile of tri_logic.v was successful with warnings.
+# Compile of tri_logic.v was successful with warnings.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 14:15:45 on Jul 19,2020
+# Loading work.tri_logic
+quit -sim
+# End time: 14:16:15 on Jul 19,2020, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 24
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 14:18:44 on Jul 19,2020
+# Loading work.tri_logic
+# ** Warning: (vsim-3035) Instantiation depth of '/tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3036) Instantiation depth of '/tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl' is 75. Assuming recursive instantiation.
+#    Time: 0 ps  Iteration: 0  Instance: /tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl File: D:/Verilog_Labs/lab1/sim/tri_logic.v
+# Error loading design
+# End time: 14:18:45 on Jul 19,2020, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Compile of tri_logic.v was successful.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 14:19:56 on Jul 19,2020
+# Loading work.tri_logic
+# ** Warning: (vsim-3035) Instantiation depth of '/tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3036) Instantiation depth of '/tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl' is 75. Assuming recursive instantiation.
+#    Time: 0 ps  Iteration: 0  Instance: /tri_logic/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl/tl File: D:/Verilog_Labs/lab1/sim/tri_logic.v
+# Error loading design
+# End time: 14:19:57 on Jul 19,2020, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Compile of tri_logic.v was successful with warnings.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 14:21:20 on Jul 19,2020
+# Loading work.tri_logic
+quit -sim
+# End time: 14:21:42 on Jul 19,2020, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 2
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 6 errors.
+# Compile of decoder_tb.v failed with 1 errors.
+# Compile of decoder_tb.v failed with 2 errors.
+# Compile of decoder_tb.v failed with 2 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 3 errors.
+# Compile of decoder_tb.v failed with 1 errors.
+# Compile of decoder.v failed with 1 errors.
+# Compile of decoder.v was successful.
+# Compile of dec_mux.v was successful.
+vsim -gui work.dec_mux
+# vsim -gui work.dec_mux 
+# Start time: 14:51:52 on Jul 19,2020
+# Loading work.dec_mux
+# Loading work.decoder
+# Loading work.tri_logic
+add wave  \
+sim:/dec_mux/a_in \
+sim:/dec_mux/d \
+sim:/dec_mux/y \
+sim:/dec_mux/m
+force a_in 00 0, 01 10, 10 20, 11 30
+# ** UI-Msg: (vsim-3586) Invalid array dimension specified for 'a_in', either all dimensions not specified or a part select was specified.
+# 
+force a_in 0 0, 1 10, 2, 20, 3 30
+# ** UI-Msg: (vsim-3586) Invalid array dimension specified for 'a_in', either all dimensions not specified or a part select was specified.
+# 
+force a_in 00 0, 01 10, 10 20, 11 30
+# ** UI-Msg: (vsim-3586) Invalid array dimension specified for 'a_in', either all dimensions not specified or a part select was specified.
+# 
+force a_in[1] 0 0, 1 10, 2, 20, 3 30
+# Invalid binary digit: 2.
+# ** UI-Msg: (vsim-4011) Invalid force value: 0 0, 1 10, 2, 20, 3 30.
+# 
+force a_in[1] 0 0, 1 10, 0 20, 1 30
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force a_in[0] 0 0, 1 10, 0 20, 1 30
+force a_in[1] 0 0, 0 10, 1 20, 1 30
+force d[0] 0 0, 1 10, 0 20, 1 30,0 40, 1 50, 0 60, 1 70
+force d[1] 0 0, 0 10, 1 20, 1 30,0 40, 0 50, 1 60, 1 70
+force d[2] 0 0, 0 10, 0 20, 0 30,1 40, 1 50, 1 60, 1 70
+force d[3] 1 0, 0 10, 1 20, 0 30,1 40, 0 50, 1 60, 0 70
+run
+restart
+force a_in[0] 0 0, 1 10, 0 20, 1 30
+force a_in[1] 0 0, 0 10, 1 20, 1 30
+force d[3] 1 0, 0 10, 1 20, 0 30,1 40, 0 50, 1 60, 0 70
+force d[0] 0 0, 1 10, 0 20, 1 30,0 40, 1 50, 0 60, 1 70
+force d[1] 0 0, 0 10, 1 20, 1 30,0 40, 0 50, 1 60, 1 70
+force d[2] 1 0, 1 10, 0 20, 0 30,1 40, 1 50, 0 60, 0 70
+run
+quit -sim
+# End time: 15:56:27 on Jul 19,2020, Elapsed time: 1:04:35
+# Errors: 0, Warnings: 1
+# Compile of tri_logic.v was successful with warnings.
+vsim -gui work.tri_logic
+# vsim -gui work.tri_logic 
+# Start time: 16:44:31 on Jul 19,2020
+# Loading work.tri_logic
+quit -sim
+# End time: 16:44:58 on Jul 19,2020, Elapsed time: 0:00:27
+# Errors: 0, Warnings: 2
+# Compile of tri_logic.v was successful with warnings.
+# Compile of decoder_tb.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+# Compile of tri_logic.v was successful with warnings.
+# Compile of tri_logic.v was successful.
+# Compile of dec_mux.v was successful.
+# bad option "GetRegisteredFile": should be one of...
+#   .main_pane.source Activate ?arg arg ...?
+#   .main_pane.source AddDedicatedTb
+#   .main_pane.source AddDefaultMenu menu_bar
+#   .main_pane.source AddDefaultToolbar toolbar
+#   .main_pane.source AddHeaderIcon
+#   .main_pane.source AnimateImage
+#   .main_pane.source ClearData
+#   .main_pane.source DataExist varName
+#   .main_pane.source DataRef varName
+#   .main_pane.source Deactivate
+#   .main_pane.source DelayedAnimation ?arg arg ...?
+#   .main_pane.source DestroyDedicatedTb
+#   .main_pane.source Dock
+#   .main_pane.source DumpAll where
+#   .main_pane.source DumpData where
+#   .main_pane.source FindSubWidget w
+#   .main_pane.source FindSubWidgetRecursive w
+#   .main_pane.source FrameName
+#   .main_pane.source GetBody
+#   .main_pane.source GetClientFooter
+#   .main_pane.source GetData ?name?
+#   .main_pane.source GetDedicatedTbPath
+#   .main_pane.source GetMenuBar
+#   .main_pane.source GetRegisteredChild
+#   .main_pane.source GetRegisteredView
+#   .main_pane.source GetTabIcon
+#   .main_pane.source GetToolbar
+#   .main_pane.source GetUndockGeom
+#   .main_pane.source GetUndockGeomHistory
+#   .main_pane.source HeaderIcon
+#   .main_pane.source HideDedicatedTb
+#   .main_pane.source IsActivated ?arg arg ...?
+#   .main_pane.source IsIconified
+#   .main_pane.source IsViable
+#   .main_pane.source PageSelected
+#   .main_pane.source RemoveData name
+#   .main_pane.source RemoveHeaderIcon
+#   .main_pane.source Reset
+#   .main_pane.source ResetBody
+#   .main_pane.source SetData name value
+#   .main_pane.source SetMaxButtonIcon
+#   .main_pane.source SetTabIcon tab
+#   .main_pane.source SetUndockGeom geom
+#   .main_pane.source SetUndockGeomHistory geom
+#   .main_pane.source ShowDedicatedTb
+#   .main_pane.source StopAnimateImage
+#   .main_pane.source SubWidgetActivate
+#   .main_pane.source SubWidgetDeActivate
+#   .main_pane.source TabLabel
+#   .main_pane.source TestCallBacks
+#   .main_pane.source TestForCallBack callback
+#   .main_pane.source Title
+#   .main_pane.source ToggleDedicatedTb
+#   .main_pane.source UnDock
+#   .main_pane.source UpdateText
+#   .main_pane.source WindowClosing
+#   .main_pane.source WindowInTransition
+#   .main_pane.source WindowOpening
+#   .main_pane.source WindowUnDocked
+#   .main_pane.source _Dock
+#   .main_pane.source _UnDock
+#   .main_pane.source _dump_queue
+#   .main_pane.source _hidecommand_
+#   .main_pane.source _trigger_show_cmd W ?general_update?
+#   .main_pane.source cget option
+#   .main_pane.source childsite
+#   .main_pane.source component ?name? ?arg arg ...?
+#   .main_pane.source config ?option? ?arg arg ...?
+#   .main_pane.source configure ?option? ?arg arg ...?
+#   .main_pane.source invoke what
+#   .main_pane.source isa className
+#   .main_pane.source itk_component option ?arg arg ...?
+#   .main_pane.source itk_initialize ?arg arg ...?
+#   .main_pane.source itk_option option ?arg arg ...?
+#   .main_pane.source winInside w
+# Compile of decoder.v was successful.
+# bad option "GetRegisteredFile": should be one of...
+#   .main_pane.source Activate ?arg arg ...?
+#   .main_pane.source AddDedicatedTb
+#   .main_pane.source AddDefaultMenu menu_bar
+#   .main_pane.source AddDefaultToolbar toolbar
+#   .main_pane.source AddHeaderIcon
+#   .main_pane.source AnimateImage
+#   .main_pane.source ClearData
+#   .main_pane.source DataExist varName
+#   .main_pane.source DataRef varName
+#   .main_pane.source Deactivate
+#   .main_pane.source DelayedAnimation ?arg arg ...?
+#   .main_pane.source DestroyDedicatedTb
+#   .main_pane.source Dock
+#   .main_pane.source DumpAll where
+#   .main_pane.source DumpData where
+#   .main_pane.source FindSubWidget w
+#   .main_pane.source FindSubWidgetRecursive w
+#   .main_pane.source FrameName
+#   .main_pane.source GetBody
+#   .main_pane.source GetClientFooter
+#   .main_pane.source GetData ?name?
+#   .main_pane.source GetDedicatedTbPath
+#   .main_pane.source GetMenuBar
+#   .main_pane.source GetRegisteredChild
+#   .main_pane.source GetRegisteredView
+#   .main_pane.source GetTabIcon
+#   .main_pane.source GetToolbar
+#   .main_pane.source GetUndockGeom
+#   .main_pane.source GetUndockGeomHistory
+#   .main_pane.source HeaderIcon
+#   .main_pane.source HideDedicatedTb
+#   .main_pane.source IsActivated ?arg arg ...?
+#   .main_pane.source IsIconified
+#   .main_pane.source IsViable
+#   .main_pane.source PageSelected
+#   .main_pane.source RemoveData name
+#   .main_pane.source RemoveHeaderIcon
+#   .main_pane.source Reset
+#   .main_pane.source ResetBody
+#   .main_pane.source SetData name value
+#   .main_pane.source SetMaxButtonIcon
+#   .main_pane.source SetTabIcon tab
+#   .main_pane.source SetUndockGeom geom
+#   .main_pane.source SetUndockGeomHistory geom
+#   .main_pane.source ShowDedicatedTb
+#   .main_pane.source StopAnimateImage
+#   .main_pane.source SubWidgetActivate
+#   .main_pane.source SubWidgetDeActivate
+#   .main_pane.source TabLabel
+#   .main_pane.source TestCallBacks
+#   .main_pane.source TestForCallBack callback
+#   .main_pane.source Title
+#   .main_pane.source ToggleDedicatedTb
+#   .main_pane.source UnDock
+#   .main_pane.source UpdateText
+#   .main_pane.source WindowClosing
+#   .main_pane.source WindowInTransition
+#   .main_pane.source WindowOpening
+#   .main_pane.source WindowUnDocked
+#   .main_pane.source _Dock
+#   .main_pane.source _UnDock
+#   .main_pane.source _dump_queue
+#   .main_pane.source _hidecommand_
+#   .main_pane.source _trigger_show_cmd W ?general_update?
+#   .main_pane.source cget option
+#   .main_pane.source childsite
+#   .main_pane.source component ?name? ?arg arg ...?
+#   .main_pane.source config ?option? ?arg arg ...?
+#   .main_pane.source configure ?option? ?arg arg ...?
+#   .main_pane.source invoke what
+#   .main_pane.source isa className
+#   .main_pane.source itk_component option ?arg arg ...?
+#   .main_pane.source itk_initialize ?arg arg ...?
+#   .main_pane.source itk_option option ?arg arg ...?
+#   .main_pane.source winInside w
+# Compile of decoder.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of decoder_tb.v failed with 4 errors.
+# Compile of decoder_tb.v failed with 1 errors.
+# Compile of decoder_tb.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of decoder.v was successful.
+# Compile of decoder.v failed with 15 errors.
+# Compile of decoder.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of dec_mux.v failed with 4 errors.
+# Compile of dec_mux.v failed with 3 errors.
+# Compile of dec_mux.v failed with 2 errors.
+# Compile of dec_mux.v failed with 6 errors.
+# Compile of dec_mux.v failed with 6 errors.
+# Compile of dec_mux.v failed with 4 errors.
+# Compile of dec_mux.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of dec_mux.v failed with 3 errors.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of dec_mux.v failed with 1 errors.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux_tb.v failed with 5 errors.
+# Compile of dec_mux_tb.v failed with 10 errors.
+# Compile of dec_mux_tb.v failed with 10 errors.
+# Compile of dec_mux_tb.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# Compile of dec_mux_tb.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of dec_mux_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of dec_mux_tb.v was successful.
+# Compile of decoder.v was successful.
+# Compile of decoder_tb.v was successful.
+# Compile of dec_mux.v was successful.
+# Compile of tri_logic.v was successful.
+# Compile of dec_mux_tb.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of tri_logic.v was successful.
+# Compile of tri_logic.v was successful.

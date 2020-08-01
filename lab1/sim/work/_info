@@ -1,0 +1,264 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/Modeltech_pe_edu_10.4a/examples
+vdec2_4
+!s110 1594901225
+!i10b 1
+!s100 UkYW^kU_O`Cfe6IfA5XGR1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM[oXNJ`5dG>8;MGXIEMC71
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog_Labs/lab1/sim
+w1594901223
+Z3 8D:/Verilog_Labs/lab1/rtl/decoder.v
+Z4 FD:/Verilog_Labs/lab1/rtl/decoder.v
+!i122 40
+L0 16 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1594901225.000000
+Z6 !s107 D:/Verilog_Labs/lab1/rtl/decoder.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/rtl/decoder.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vdec_mux
+Z10 !s110 1595339138
+!i10b 1
+!s100 jE5`6CBIiUI@S5Bn`Fce]3
+R0
+I=DXeF?B?CKWl4j13P2h0S2
+R1
+R2
+w1595339070
+8D:/Verilog_Labs/lab1/sim/dec_mux.v
+FD:/Verilog_Labs/lab1/sim/dec_mux.v
+!i122 146
+L0 1 21
+R5
+r1
+!s85 0
+31
+Z11 !s108 1595339138.000000
+!s107 D:/Verilog_Labs/lab1/sim/dec_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/sim/dec_mux.v|
+!i113 1
+R8
+R9
+vdec_mux_tb
+R10
+!i10b 1
+!s100 Ji0N>Nz>AzBTb6PhIKVW[3
+R0
+IBN_Ni<0b5SE3BG`z;adOf3
+R1
+R2
+w1595339129
+8D:\Verilog_Labs\lab1\tb\dec_mux_tb.v
+FD:\Verilog_Labs\lab1\tb\dec_mux_tb.v
+!i122 148
+L0 1 19
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:\Verilog_Labs\lab1\tb\dec_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog_Labs\lab1\tb\dec_mux_tb.v|
+!i113 1
+R8
+R9
+vdecoder
+R10
+!i10b 1
+!s100 C87GoK]FX5NSWI0ZQ^Q0J2
+R0
+IlFAM5;2cNX^fCY@B>m>B02
+R1
+R2
+w1595321976
+R3
+R4
+!i122 144
+L0 34 13
+R5
+r1
+!s85 0
+31
+R11
+R6
+R7
+!i113 1
+R8
+R9
+vdecoder_tb
+R10
+!i10b 1
+!s100 cn4n>B?]d82akT:^GRdb=3
+R0
+I3KOlLe^9OoY7XLiY5Idb93
+R1
+R2
+w1595336188
+8D:/Verilog_Labs/lab1/tb/decoder_tb.v
+FD:/Verilog_Labs/lab1/tb/decoder_tb.v
+!i122 145
+L0 30 33
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/Verilog_Labs/lab1/tb/decoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/tb/decoder_tb.v|
+!i113 1
+R8
+R9
+vfull_adder
+Z12 !s110 1594845917
+!i10b 1
+!s100 Y7:C1dPAH_Z[4AWlEcJXf0
+R0
+I3kO`2@O?1NYR2NQ?ABL`O1
+R1
+R2
+w1594845914
+8D:/Verilog_Labs/lab1/rtl/full_adder.v
+FD:/Verilog_Labs/lab1/rtl/full_adder.v
+!i122 38
+L0 29 21
+R5
+r1
+!s85 0
+31
+Z13 !s108 1594845917.000000
+!s107 D:/Verilog_Labs/lab1/rtl/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/rtl/full_adder.v|
+!i113 1
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+vfull_adder_tb
+R12
+!i10b 1
+!s100 ACkfZ4]@G4HLDmVK[SMEK2
+R0
+II>^YOiVBmAlYMk8zh?daQ1
+R1
+R2
+w1594806832
+8D:/Verilog_Labs/lab1/tb/full_adder_tb.v
+FD:/Verilog_Labs/lab1/tb/full_adder_tb.v
+!i122 39
+L0 29 32
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/Verilog_Labs/lab1/tb/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/tb/full_adder_tb.v|
+!i113 1
+R14
+R9
+vhalf_adder
+R12
+!i10b 1
+!s100 VblOAj2`o:@h1fiADgG5R0
+R0
+IhPJ5UbYNl=Z5SOTg<SIcH2
+R1
+R2
+w1594839409
+8D:/Verilog_Labs/lab1/rtl/half_adder.v
+FD:/Verilog_Labs/lab1/rtl/half_adder.v
+!i122 37
+L0 28 13
+R5
+r1
+!s85 0
+31
+Z15 !s108 1594845916.000000
+!s107 D:/Verilog_Labs/lab1/rtl/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/rtl/half_adder.v|
+!i113 1
+R14
+R9
+vhalf_adder_tb
+!s110 1594845916
+!i10b 1
+!s100 CEcFf8dB:XPg2CfO<9ZPJ3
+R0
+I_3o[D0R74o`;]PLJTP<C82
+R1
+R2
+w1594806833
+8D:/Verilog_Labs/lab1/tb/half_adder_tb.v
+FD:/Verilog_Labs/lab1/tb/half_adder_tb.v
+!i122 36
+L0 29 31
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/Verilog_Labs/lab1/tb/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/tb/half_adder_tb.v|
+!i113 1
+R14
+R9
+vtri_l
+Z16 !s110 1595339597
+!i10b 1
+!s100 U?gAf1k4?8YiWl0H@Pcne1
+R0
+IR]kLQYXWi^jEQj:Z=ie5S1
+R1
+R2
+Z17 w1595339593
+Z18 8D:/Verilog_Labs/lab1/sim/tri_logic.v
+Z19 FD:/Verilog_Labs/lab1/sim/tri_logic.v
+!i122 150
+L0 17 5
+R5
+r1
+!s85 0
+31
+Z20 !s108 1595339597.000000
+!s107 D:/Verilog_Labs/lab1/sim/tri_logic.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab1/sim/tri_logic.v|
+!i113 1
+R8
+R9
+vtri_logic
+R16
+!i10b 1
+!s100 PKJZJJ:J5VgK7YU[lflDM1
+R0
+Ik>?LoIUg53=j4Ye]FdE@@2
+R1
+R2
+R17
+R18
+R19
+!i122 150
+L0 1 9
+R5
+r1
+!s85 0
+31
+R20
+Z22 !s107 D:/Verilog_Labs/lab1/sim/tri_logic.v|
+R21
+!i113 1
+R8
+R9

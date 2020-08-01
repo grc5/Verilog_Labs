@@ -1,0 +1,37 @@
+D:/Verilog_Labs/lab1/sim/tri_logic.v {1 {vlog -work work -stats=none D:/Verilog_Labs/lab1/sim/tri_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tri_logic
+-- Compiling module tri_l
+
+Top level modules:
+	tri_logic
+
+} {} {}} D:/Verilog_Labs/lab1/tb/decoder_tb.v {1 {vlog -work work -stats=none D:/Verilog_Labs/lab1/tb/decoder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}} D:/Verilog_Labs/lab1/sim/dec_mux.v {1 {vlog -work work -stats=none D:/Verilog_Labs/lab1/sim/dec_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dec_mux
+
+Top level modules:
+	dec_mux
+
+} {} {}} D:/Verilog_Labs/lab1/tb/dec_mux_tb.v {1 {vlog -work work -stats=none {D:\Verilog_Labs\lab1\tb\dec_mux_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dec_mux_tb
+
+Top level modules:
+	dec_mux_tb
+
+} {} {}} D:/Verilog_Labs/lab1/rtl/decoder.v {1 {vlog -work work -stats=none D:/Verilog_Labs/lab1/rtl/decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}}

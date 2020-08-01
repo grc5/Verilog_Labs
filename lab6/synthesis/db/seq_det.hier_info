@@ -1,0 +1,7 @@
+|seq_det
+din => present_state[0].DATAIN
+clock => present_state[0].CLK
+reset => present_state[0].ACLR
+dout <= present_state[0].DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Thu Jul 16 12:12:49 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : decoder
+Top-level Entity Name : decoder
+Family : Cyclone V
+Device : 5CGXFC7C7F23C8
+Power Models : Final
+Total Thermal Power Dissipation : 354.01 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 349.45 mW
+I/O Thermal Power Dissipation : 4.56 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

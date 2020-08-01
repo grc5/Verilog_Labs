@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_lite/20.1
+vmux4_1
+!s110 1595347226
+!i10b 1
+!s100 B3S6IiS]jVJjTSNAD[W?`0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INCIbelEkdB;iec=A<P0Vj1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog_Labs/lab3/sim
+w1595072182
+8D:\Verilog_Labs\lab3\rtl\mux4_1.v
+FD:\Verilog_Labs\lab3\rtl\mux4_1.v
+!i122 7
+L0 29 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1595347225.000000
+!s107 D:\Verilog_Labs\lab3\rtl\mux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog_Labs\lab3\rtl\mux4_1.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vmux4_1_tb
+!s110 1595353318
+!i10b 1
+!s100 go[6odeVfk3Ao9KFh@MX00
+R0
+ID:DQDAU>GJUP;RJ7Fm:ZC0
+R1
+R2
+w1595353314
+8D:/Verilog_Labs/lab3/tb/mux4_1_tb.v
+FD:/Verilog_Labs/lab3/tb/mux4_1_tb.v
+!i122 12
+L0 29 47
+R3
+r1
+!s85 0
+31
+!s108 1595353318.000000
+!s107 D:/Verilog_Labs/lab3/tb/mux4_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab3/tb/mux4_1_tb.v|
+!i113 1
+R4
+R5
+vmux7_1
+!s110 1595452085
+!i10b 1
+!s100 YWPTo2P7c_<RCV@Az[n[<2
+R0
+In67>AEL2ggl?]C7<106d?2
+R1
+R2
+w1595452056
+8D:/Verilog_Labs/lab3/rtl/mux7_1.v
+FD:/Verilog_Labs/lab3/rtl/mux7_1.v
+!i122 13
+L0 1 20
+R3
+r1
+!s85 0
+31
+!s108 1595452085.000000
+!s107 D:/Verilog_Labs/lab3/rtl/mux7_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab3/rtl/mux7_1.v|
+!i113 1
+R4
+R5
+vmux7_1_tb
+!s110 1595457009
+!i10b 1
+!s100 M1f_;cJ>aWS^KN<lXzfzY1
+R0
+I5A2Lc2eCXZKOF2J=MG9>d2
+R1
+R2
+w1595457006
+8D:/Verilog_Labs/lab3/tb/mux7_1_tb.v
+FD:/Verilog_Labs/lab3/tb/mux7_1_tb.v
+!i122 24
+L0 1 45
+R3
+r1
+!s85 0
+31
+!s108 1595457009.000000
+!s107 D:/Verilog_Labs/lab3/tb/mux7_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog_Labs/lab3/tb/mux7_1_tb.v|
+!i113 1
+R4
+R5
